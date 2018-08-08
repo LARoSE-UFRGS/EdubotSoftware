@@ -1,0 +1,12 @@
+[submodule "Encoder"]
+	path = Encoder
+	url = https://github.com/PaulStoffregen/Encoder
+[submodule "eduLib"]
+	path = eduLib
+	url = https://github.com/pedro-sidra/eduLib
+[submodule "LibMotor"]
+	path = LibMotor
+	url = https://github.com/pedro-sidra/LibMotor
+[submodule "LibSonar"]
+	path = LibSonar
+	url = https://github.com/pedro-sidra/LibSonar
